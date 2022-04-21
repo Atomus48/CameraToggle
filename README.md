@@ -3,6 +3,7 @@ A bakkesmodplugin which allows you to bind a button to switch between two differ
 
 **Basic Usage:**
 
+doesn't work in online games obviously!
 bind any button via the bakkesmod bindings tab to the command "cameraToggle_toggle 1"
 and select the camera settings you want to use in the CameraToggle plugins tab
 

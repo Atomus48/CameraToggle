@@ -1,0 +1,22 @@
+CameraToggle
+9|bind any button via the bakkesmod bindings tab to the command "cameraToggle_toggle 1"
+8|
+9|Primary Camera
+5|FOV1|cameraToggle_fovPrimary|60|110
+5|Distance1|cameraToggle_distancePrimary|100|400
+5|Height1|cameraToggle_hightPrimary|40|200
+5|Angle1|cameraToggle_pitchPrimary|-15|0
+4|Stiffness1|cameraToggle_stiffnessPrimary|0|1
+4|Swivel Speed1|cameraToggle_swivelSpeedPrimary|1|10
+4|Transition Speed1|cameraToggle_transitionSpeedPrimary|1|2
+8|
+9|Secondray Camera
+5|FOV2|cameraToggle_fovSecondary|60|110
+5|Distance2|cameraToggle_distanceSecondary|100|400
+5|Height2|cameraToggle_hightSecondary|40|200
+5|Angle2|cameraToggle_pitchSecondary|-15|0
+4|Stiffness2|cameraToggle_stiffnessSecondary|0|1
+4|Swivel Speed2|cameraToggle_swivelSpeedSecondary|1|10
+4|Transition Speed2|cameraToggle_transitionSpeedSecondary|1|2
+8|
+9|plugin made by: Atomus#5492
